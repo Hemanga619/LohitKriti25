@@ -784,7 +784,7 @@ Grid:
   m_GameObject: {fileID: 1392287419}
   m_Enabled: 1
   m_CellSize: {x: 1.3, y: 1.3, z: 1}
-  m_CellGap: {x: -0.0185, y: -0.0185, z: 0}
+  m_CellGap: {x: -0.02, y: -0.02, z: 0}
   m_CellLayout: 0
   m_CellSwizzle: 0
 --- !u!4 &1392287421
