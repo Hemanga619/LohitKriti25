@@ -487,7 +487,7 @@
                 {
                     "name": "",
                     "id": "dcbea720-15c0-4b92-b560-af6adb532a94",
-                    "path": "<Keyboard>/shift",
+                    "path": "<Keyboard>/leftShift",
                     "interactions": "",
                     "processors": "",
                     "groups": ";Keyboard&Mouse",
