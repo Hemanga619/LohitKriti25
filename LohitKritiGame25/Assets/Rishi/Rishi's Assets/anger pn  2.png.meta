@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: abb7ef0a2c94c644d94071a0f5baf317
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8268972734257143318
+    second: anger pn _0
+  - first:
+      213: 5550445760986234260
+    second: anger pn _1
+  - first:
+      213: 9023897235357989192
+    second: anger pn _2
+  - first:
+      213: -8865136154577263191
+    second: anger pn _3
+  - first:
+      213: -6155406052349451895
+    second: anger pn _4
+  - first:
+      213: -8383128062962711323
+    second: anger pn _5
+  - first:
+      213: 7744597351811980366
+    second: anger pn _6
+  - first:
+      213: -9026404522889785992
+    second: anger pn _7
+  - first:
+      213: 8259205616300702807
+    second: anger pn _8
+  - first:
+      213: -2672382630181742011
+    second: anger pn _9
+  - first:
+      213: -7140865146955063466
+    second: anger pn _10
+  - first:
+      213: 738365700501777576
+    second: anger pn _11
+  - first:
+      213: -5729074650338871007
+    second: anger pn _12
+  - first:
+      213: -7703566923518763875
+    second: anger pn _13
+  - first:
+      213: -5423731696161579346
+    second: anger pn _14
+  - first:
+      213: -4201865909427710824
+    second: anger pn _15
+  - first:
+      213: 5147662355141449838
+    second: anger pn _16
+  - first:
+      213: -3698820396520163161
+    second: anger pn _17
+  - first:
+      213: -6009495854551622299
+    second: anger pn _18
+  - first:
+      213: -6297508977861382265
+    second: anger pn _19
+  - first:
+      213: -7105971705917537356
+    second: anger pn _20
+  - first:
+      213: 7090679027595822411
+    second: anger pn _21
+  - first:
+      213: -6205883453802508109
+    second: anger pn _22
+  - first:
+      213: 1765292106206259505
+    second: anger pn _23
+  - first:
+      213: 6640192984426041769
+    second: anger pn _24
+  - first:
+      213: 501089704387862012
+    second: anger pn _25
+  - first:
+      213: -1984617663254747639
+    second: anger pn _26
+  - first:
+      213: 7739636237342539903
+    second: anger pn _27
+  - first:
+      213: -1561370522744653116
+    second: anger pn _28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: anger pn _0
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 769
+        width: 83
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e99c214ea41c270800000000000000
+      internalID: 8268972734257143318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger pn _1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 769
+        width: 83
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d38a81305270d40800000000000000
+      internalID: 5550445760986234260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger pn _2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 769
+        width: 81
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849742399b25b3d70800000000000000
+      internalID: 9023897235357989192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger pn _3
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 770
+        width: 100
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a523fc03a5b8f480800000000000000
+      internalID: -8865136154577263191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger pn _4
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 771
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981eb61eeca939aa0800000000000000
+      internalID: -6155406052349451895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger pn _5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 595
+        width: 91
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4cf74417529ab80800000000000000
+      internalID: -8383128062962711323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger pn _6
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 595
+        width: 72
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c1f2342465a7b60800000000000000
+      internalID: 7744597351811980366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger pn _7
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 595
+        width: 80
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dcc2e09e4cbb280800000000000000
+      internalID: -9026404522889785992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger pn _8
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 595
+        width: 192
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cb386bfb79e9270800000000000000
+      internalID: 8259205616300702807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger pn _9
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 596
+        width: 111
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ad710282ac9ead0800000000000000
+      internalID: -2672382630181742011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger pn _10
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 540
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f96c69bfc86ec90800000000000000
+      internalID: -7140865146955063466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger pn _11
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 566
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acadbc41b33f3a00800000000000000
+      internalID: 738365700501777576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger pn _12
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 553
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1293bde95fc3e70b0800000000000000
+      internalID: -5729074650338871007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger pn _13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 425
+        width: 87
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c1734c2be671590800000000000000
+      internalID: -7703566923518763875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger pn _14
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 427
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae134d22c80bb4b0800000000000000
+      internalID: -5423731696161579346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger pn _15
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 424
+        width: 326
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894dcb2c739ffa5c0800000000000000
+      internalID: -4201865909427710824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger pn _16
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 420
+        width: 129
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e685bd573ab207740800000000000000
+      internalID: 5147662355141449838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger pn _17
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 244
+        width: 77
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8327152762bacc0800000000000000
+      internalID: -3698820396520163161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger pn _18
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 243
+        width: 84
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d94462c5bf99ca0800000000000000
+      internalID: -6009495854551622299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger pn _19
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 243
+        width: 84
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f2db443f0ca98a0800000000000000
+      internalID: -6297508977861382265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger pn _20
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 242
+        width: 90
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b30fcce164826d90800000000000000
+      internalID: -7105971705917537356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger pn _21
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 243
+        width: 93
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b454920f107276260800000000000000
+      internalID: 7090679027595822411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger pn _22
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 72
+        width: 85
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b090a201e540e9a0800000000000000
+      internalID: -6205883453802508109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger pn _23
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 73
+        width: 87
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139a93351d39f7810800000000000000
+      internalID: 1765292106206259505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger pn _24
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 73
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a151cc8654b62c50800000000000000
+      internalID: 6640192984426041769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger pn _25
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 73
+        width: 168
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdd4a66e6a34f600800000000000000
+      internalID: 501089704387862012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger pn _26
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 74
+        width: 150
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9062cbe00c83574e0800000000000000
+      internalID: -1984617663254747639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger pn _27
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 73
+        width: 113
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f700b89c626b86b60800000000000000
+      internalID: 7739636237342539903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger pn _28
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 72
+        width: 105
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4caf90538c5e45ae0800000000000000
+      internalID: -1561370522744653116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      anger pn _0: 8268972734257143318
+      anger pn _1: 5550445760986234260
+      anger pn _10: -7140865146955063466
+      anger pn _11: 738365700501777576
+      anger pn _12: -5729074650338871007
+      anger pn _13: -7703566923518763875
+      anger pn _14: -5423731696161579346
+      anger pn _15: -4201865909427710824
+      anger pn _16: 5147662355141449838
+      anger pn _17: -3698820396520163161
+      anger pn _18: -6009495854551622299
+      anger pn _19: -6297508977861382265
+      anger pn _2: 9023897235357989192
+      anger pn _20: -7105971705917537356
+      anger pn _21: 7090679027595822411
+      anger pn _22: -6205883453802508109
+      anger pn _23: 1765292106206259505
+      anger pn _24: 6640192984426041769
+      anger pn _25: 501089704387862012
+      anger pn _26: -1984617663254747639
+      anger pn _27: 7739636237342539903
+      anger pn _28: -1561370522744653116
+      anger pn _3: -8865136154577263191
+      anger pn _4: -6155406052349451895
+      anger pn _5: -8383128062962711323
+      anger pn _6: 7744597351811980366
+      anger pn _7: -9026404522889785992
+      anger pn _8: 8259205616300702807
+      anger pn _9: -2672382630181742011
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

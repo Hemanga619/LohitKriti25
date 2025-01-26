@@ -112,7 +112,7 @@ public class PlayerMovementSide : MonoBehaviour
         for (int i = 0; i < parameterCount; i++)
         {
             AnimatorControllerParameter parameter = Animator.GetParameter(i);
-            Debug.Log($"Parameter {i}: Name = {parameter.name}, Type = {parameter.type}");
+            //Debug.Log($"Parameter {i}: Name = {parameter.name}, Type = {parameter.type}");
 
             if (parameter.name == "Speed")
             {
