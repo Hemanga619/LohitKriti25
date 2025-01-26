@@ -166,6 +166,12 @@ AnimatorController:
     m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 9100000}
+  - m_Name: Speed
+    m_Type: 1
+    m_DefaultFloat: 0
+    m_DefaultInt: 0
+    m_DefaultBool: 0
+    m_Controller: {fileID: 9100000}
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer
@@ -200,7 +206,7 @@ AnimatorStateTransition:
   m_TransitionOffset: 0
   m_ExitTime: 0.673913
   m_HasExitTime: 0
-  m_HasFixedDuration: 1
+  m_HasFixedDuration: 0
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 1
@@ -244,6 +250,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Speed: 2.5
+  attackRange: 3
 --- !u!1107 &8958206452258536929
 AnimatorStateMachine:
   serializedVersion: 6
@@ -255,16 +262,16 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: -2829870878968183784}
-    m_Position: {x: 280, y: -30, z: 0}
+    m_Position: {x: 300, y: -30, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -8886257342966555950}
-    m_Position: {x: 280, y: 100, z: 0}
+    m_Position: {x: 300, y: 100, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 3730237077221191406}
     m_Position: {x: 540, y: 100, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -9054845253846648052}
-    m_Position: {x: 580, y: 200, z: 0}
+    m_Position: {x: 340, y: 220, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -5790154205129582692}
     m_Position: {x: 615, y: 265, z: 0}

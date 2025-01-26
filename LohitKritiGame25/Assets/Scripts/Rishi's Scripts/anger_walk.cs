@@ -3,6 +3,7 @@ using UnityEngine;
 public class anger_walk : StateMachineBehaviour
 {
     public float Speed = 2.5f;
+    public float attackRange = 3f;
     private Transform Player;
     private Rigidbody2D rb;
     private Boss boss;
@@ -38,12 +39,17 @@ public class anger_walk : StateMachineBehaviour
         Vector2 target = new Vector2(Player.position.x, rb.position.y);
         Vector2 newPos = Vector2.MoveTowards(rb.position, target, Speed * Time.fixedDeltaTime);
         rb.MovePosition(newPos);
+
+        if (Vector2.Distance(Player.position, rb.position) <= attackRange)
+        {
+            animator.SetTrigger("Attack");
+        }
     }
 
 
     // OnStateExit is called when a transition ends and the state machine finishes evaluating this state
     override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-
+        animator.ResetTrigger("Attack");
     }
 }

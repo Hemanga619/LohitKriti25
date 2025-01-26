@@ -1,18 +1,97 @@
 using UnityEngine;
 
-public class PlayerMovement : MonoBehaviour
+public class PlayerMovementSide : MonoBehaviour
 {
-    public CharacterController2D characterController;
-
+    [Header("Player Components")]
+    public Rigidbody2D playerRb;
     public Animator Animator;
+    private bool m_FacingRight = true;
+    private Vector2 m_Velocity = Vector2.zero;
 
-    public float runSpeed = 40f;
+    [Header("Player Elements")]
+    private float playerMoveX;
+    [Range(0f, 50f)][SerializeField] private int playerSpeed;
+    private bool isGrounded;
+    private bool wasGrounded;
+    [SerializeField] private Transform groundPos;
+    [Range(0f, 1f)][SerializeField] private float groundCheckRadius;
+    [SerializeField] private LayerMask groundLayer;
+    [Range(0f, 50f)][SerializeField] private int playerJumpSpeed;
+    [Range(0f, 2f)][SerializeField] private float playerJumpBufferTime;
+    private float playerJumpBufferTimeCounter;
+    [Range(0f, 2f)][SerializeField] private float playerCoyoteTime;
+    [Range(0, .3f)][SerializeField] private float m_MovementSmoothing = .05f;
+    private float playerCoyoteTimeCounter;
 
-    private float horizontalMove = 0f;
+    private void Awake()
+    {
+        isGrounded = false;
+        wasGrounded = false;
+        playerJumpBufferTimeCounter = 0f;
+        playerCoyoteTimeCounter = playerCoyoteTime;
 
-    private bool jump = false;
+        playerRb = GetComponent<Rigidbody2D>();
+    }
 
-    private bool crouch = false;
+    public void PlayerRun()
+    {
+        // Compute target velocity
+        Vector2 targetVelocity = new Vector2(playerMoveX * playerSpeed, playerRb.linearVelocity.y);
+
+        // Smoothly transition to the target velocity
+        playerRb.linearVelocity = Vector2.SmoothDamp(playerRb.linearVelocity, targetVelocity, ref m_Velocity, m_MovementSmoothing);
+
+        // Flip player if moving in the opposite direction
+        if (playerMoveX > 0 && !m_FacingRight)
+        {
+            Flip();
+        }
+        else if (playerMoveX < 0 && m_FacingRight)
+        {
+            Flip();
+        }
+
+        // Update animator's Speed parameter
+        if (Animator != null)
+        {
+            Animator.SetFloat("Speed", Mathf.Abs(playerMoveX));
+        }
+    }
+
+    private void PlayerJump()
+    {
+        if (isGrounded)
+        {
+            playerCoyoteTimeCounter = playerCoyoteTime;
+        }
+        else
+        {
+            playerCoyoteTimeCounter -= Time.deltaTime;
+        }
+
+        if (Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.W))
+        {
+            playerJumpBufferTimeCounter = playerJumpBufferTime;
+        }
+
+        if (playerJumpBufferTimeCounter > 0f && playerCoyoteTimeCounter > 0f)
+        {
+            playerJumpBufferTimeCounter = 0f;
+            playerCoyoteTimeCounter = 0f;
+
+            // Apply jump force
+            playerRb.linearVelocity = new Vector2(playerRb.linearVelocity.x, playerJumpSpeed);
+
+            // Trigger the jump animation
+            if (Animator != null)
+            {
+                Animator.SetBool("Jumping", true);
+            }
+        }
+
+        // Reset buffer counter over time
+        playerJumpBufferTimeCounter -= Time.deltaTime;
+    }
 
     void Start()
     {
@@ -53,37 +132,27 @@ public class PlayerMovement : MonoBehaviour
         {
             Debug.LogError("Animator parameter 'Jumping' does not exist.");
         }
-        characterController.OnLandEvent.AddListener(OnLanding);
     }
 
-    void Update()
+    private void FixedUpdate()
     {
-        horizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed;
+        playerMoveX = Input.GetAxisRaw("Horizontal");
 
-        if (Animator != null)
-        {
-            Animator.SetFloat("Speed", Mathf.Abs(horizontalMove));
-        }
-        else
-        {
-            Debug.LogWarning("Animator is not assigned.");
-        }
+        // Check if grounded
+        wasGrounded = isGrounded;
+        isGrounded = Physics2D.OverlapCircle(groundPos.position, groundCheckRadius, groundLayer);
 
-        if (Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.W))
-        {
-            jump = true;
-            Animator.SetBool("Jumping", true);
-        }
+        // Handle running and jumping
+        PlayerRun();
+        PlayerJump();
 
-        if (Input.GetKeyDown(KeyCode.C) || Input.GetKeyDown(KeyCode.LeftShift))
+        // Handle landing detection
+        if (!wasGrounded && isGrounded)
         {
-            crouch = true;
-        }
-        else if (Input.GetKeyUp(KeyCode.C) || Input.GetKeyUp(KeyCode.LeftShift))
-        {
-            crouch = false;
+            OnLanding();
         }
     }
+
     public void OnLanding()
     {
         if (Animator != null)
@@ -92,20 +161,21 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    void FixedUpdate()
+    private void Flip()
     {
-        if (characterController != null)
-        {
-            characterController.Move(horizontalMove * Time.fixedDeltaTime, crouch, jump);
-            Debug.Log($"Movement applied: {horizontalMove}, Jump: {jump}, Crouch: {crouch}");
-        }
-        else
-        {
-            Debug.LogError("CharacterController2D is not assigned!");
-        }
+        // Switch the way the player is labelled as facing
+        m_FacingRight = !m_FacingRight;
 
-        // Reset jump after it's been processed
-        jump = false;
+        // Flip the player's local scale
+        Vector3 flipped = transform.localScale;
+        flipped.x *= -1f;
+        transform.localScale = flipped;
     }
 
+    private void OnDrawGizmos()
+    {
+        // Draw the ground check radius
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(groundPos.position, groundCheckRadius);
+    }
 }
