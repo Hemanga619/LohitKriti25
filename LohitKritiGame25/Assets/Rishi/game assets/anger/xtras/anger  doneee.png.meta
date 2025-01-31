@@ -1,0 +1,1017 @@
+fileFormatVersion: 2
+guid: 80f21895e636eba40b2328829d3d78e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 238868740451984696
+    second: anger  doneee_0
+  - first:
+      213: -745421086215974001
+    second: anger  doneee_1
+  - first:
+      213: 5528559767671651932
+    second: anger  doneee_2
+  - first:
+      213: -542494459669905364
+    second: anger  doneee_3
+  - first:
+      213: 3850035507069601707
+    second: anger  doneee_4
+  - first:
+      213: 1139774128490191989
+    second: anger  doneee_5
+  - first:
+      213: -6346253368053443864
+    second: anger  doneee_6
+  - first:
+      213: 2649986236475398141
+    second: anger  doneee_7
+  - first:
+      213: 7824017159061024567
+    second: anger  doneee_8
+  - first:
+      213: 6188615800569055287
+    second: anger  doneee_9
+  - first:
+      213: 7810311413014787731
+    second: anger  doneee_10
+  - first:
+      213: -1708730358344531431
+    second: anger  doneee_11
+  - first:
+      213: 2610450761722878904
+    second: anger  doneee_12
+  - first:
+      213: -6068653116345922431
+    second: anger  doneee_13
+  - first:
+      213: -3785969681028438730
+    second: anger  doneee_14
+  - first:
+      213: -6059547258101406875
+    second: anger  doneee_15
+  - first:
+      213: 8022793500914364741
+    second: anger  doneee_16
+  - first:
+      213: 3666747505573353142
+    second: anger  doneee_17
+  - first:
+      213: 1990442402559693027
+    second: anger  doneee_18
+  - first:
+      213: -8029000027298551476
+    second: anger  doneee_19
+  - first:
+      213: -717308284303398092
+    second: anger  doneee_20
+  - first:
+      213: -3907565597273585371
+    second: anger  doneee_21
+  - first:
+      213: 8449525750261179709
+    second: anger  doneee_22
+  - first:
+      213: 966054143702399313
+    second: anger  doneee_23
+  - first:
+      213: -5327260295100138603
+    second: anger  doneee_24
+  - first:
+      213: -5272406789616806187
+    second: anger  doneee_25
+  - first:
+      213: 5184157085394915108
+    second: anger  doneee_26
+  - first:
+      213: 2112119503850228541
+    second: anger  doneee_27
+  - first:
+      213: -3458647086477114774
+    second: anger  doneee_28
+  - first:
+      213: 1305924306880625740
+    second: anger  doneee_29
+  - first:
+      213: 5814524266327720843
+    second: anger  doneee_30
+  - first:
+      213: 2940263946237702940
+    second: anger  doneee_31
+  - first:
+      213: -4164892605352896149
+    second: anger  doneee_32
+  - first:
+      213: -3851970033169072107
+    second: anger  doneee_33
+  - first:
+      213: 2204378544988532064
+    second: anger  doneee_34
+  - first:
+      213: -2123522693097832482
+    second: anger  doneee_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: anger  doneee_0
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1487
+        width: 83
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835e5969ad1a05300800000000000000
+      internalID: 238868740451984696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1487
+        width: 83
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83d204b87bb7a5f0800000000000000
+      internalID: -745421086215974001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1487
+        width: 81
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5eb59f21d369bc40800000000000000
+      internalID: 5528559767671651932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_3
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1488
+        width: 100
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2002c6c92ca878f0800000000000000
+      internalID: -542494459669905364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_4
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1489
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7468335e21e6530800000000000000
+      internalID: 3850035507069601707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1313
+        width: 91
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c96d4f78a41df00800000000000000
+      internalID: 1139774128490191989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_6
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1313
+        width: 72
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e25c868f249de7a0800000000000000
+      internalID: -6346253368053443864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_7
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1313
+        width: 80
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df75acc1174a6c420800000000000000
+      internalID: 2649986236475398141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_8
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1313
+        width: 84
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fa46a172e749c60800000000000000
+      internalID: 7824017159061024567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_9
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1314
+        width: 115
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738c94c284162e550800000000000000
+      internalID: 6188615800569055287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_10
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1315
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396fced69dcc36c60800000000000000
+      internalID: 7810311413014787731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1046
+        width: 154
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912c2f5dace5948e0800000000000000
+      internalID: -1708730358344531431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_12
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1049
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbd324132f2a3420800000000000000
+      internalID: 2610450761722878904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_13
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1044
+        width: 239
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c422fc420d7cba0800000000000000
+      internalID: -6068653116345922431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_14
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1049
+        width: 214
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635a6ef42a8857bc0800000000000000
+      internalID: -3785969681028438730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_15
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1050
+        width: 203
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5636c25afd928eba0800000000000000
+      internalID: -6059547258101406875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_16
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1038
+        width: 231
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5413058be20b65f60800000000000000
+      internalID: 8022793500914364741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_17
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 763
+        width: 77
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6dfb6dd67e2e230800000000000000
+      internalID: 3666747505573353142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_18
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 759
+        width: 120
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0127eb1d87f9b10800000000000000
+      internalID: 1990442402559693027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_19
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 759
+        width: 120
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49a44fb303439090800000000000000
+      internalID: -8029000027298551476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_20
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 758
+        width: 148
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ba6a77aeb9b06f0800000000000000
+      internalID: -717308284303398092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_21
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 760
+        width: 169
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52988fddac985c9c0800000000000000
+      internalID: -3907565597273585371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_22
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 500
+        width: 85
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3565d007eeb24570800000000000000
+      internalID: 8449525750261179709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_23
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 501
+        width: 87
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159fc25102d186d00800000000000000
+      internalID: 966054143702399313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_24
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 501
+        width: 149
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b73849cf4c116b0800000000000000
+      internalID: -5327260295100138603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_25
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 501
+        width: 168
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6588195f5a4d6b0800000000000000
+      internalID: -5272406789616806187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_26
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 502
+        width: 150
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fc9cef663d1f740800000000000000
+      internalID: 5184157085394915108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_27
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 501
+        width: 113
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bca2e8f71cf4d10800000000000000
+      internalID: 2112119503850228541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_28
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 500
+        width: 105
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62871facca6000d0800000000000000
+      internalID: -3458647086477114774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_29
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 173
+        width: 156
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cfa2fec339f1210800000000000000
+      internalID: 1305924306880625740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_30
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 175
+        width: 162
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b834a58730751b050800000000000000
+      internalID: 5814524266327720843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_31
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 175
+        width: 224
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13f26d1b7aedc820800000000000000
+      internalID: 2940263946237702940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_32
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 175
+        width: 311
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b691a42fd345336c0800000000000000
+      internalID: -4164892605352896149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_33
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 177
+        width: 279
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5100287d9ad0b8ac0800000000000000
+      internalID: -3851970033169072107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_34
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 175
+        width: 213
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06da88c7b96879e10800000000000000
+      internalID: 2204378544988532064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anger  doneee_35
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 173
+        width: 195
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf3c6d8c5bb782e0800000000000000
+      internalID: -2123522693097832482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

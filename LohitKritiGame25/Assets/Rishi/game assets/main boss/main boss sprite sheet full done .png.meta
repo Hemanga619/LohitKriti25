@@ -1,0 +1,1567 @@
+fileFormatVersion: 2
+guid: c9ce5aa986bcb1944b838def4c41ab60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4184601524468929193
+    second: main boss sprite sheet full done _0
+  - first:
+      213: 6937947101833419261
+    second: main boss sprite sheet full done _1
+  - first:
+      213: -5763818407263774880
+    second: main boss sprite sheet full done _2
+  - first:
+      213: -8624390864747762238
+    second: main boss sprite sheet full done _3
+  - first:
+      213: -2975270280323604103
+    second: main boss sprite sheet full done _4
+  - first:
+      213: 722763276849320382
+    second: main boss sprite sheet full done _5
+  - first:
+      213: 4400977560193204424
+    second: main boss sprite sheet full done _6
+  - first:
+      213: -1749890968163442024
+    second: main boss sprite sheet full done _7
+  - first:
+      213: 5555175549811700735
+    second: main boss sprite sheet full done _8
+  - first:
+      213: 7632681429551531013
+    second: main boss sprite sheet full done _9
+  - first:
+      213: -3786905544335984149
+    second: main boss sprite sheet full done _10
+  - first:
+      213: 5035848503871864974
+    second: main boss sprite sheet full done _11
+  - first:
+      213: -1327652759678489989
+    second: main boss sprite sheet full done _12
+  - first:
+      213: 4876256833235503171
+    second: main boss sprite sheet full done _13
+  - first:
+      213: 2303643651911779396
+    second: main boss sprite sheet full done _14
+  - first:
+      213: -7328018059357323503
+    second: main boss sprite sheet full done _15
+  - first:
+      213: -3979308561185629790
+    second: main boss sprite sheet full done _16
+  - first:
+      213: -1757849810238505565
+    second: main boss sprite sheet full done _17
+  - first:
+      213: -3148971410546028127
+    second: main boss sprite sheet full done _18
+  - first:
+      213: 2007125540965379228
+    second: main boss sprite sheet full done _19
+  - first:
+      213: -2925676115411345298
+    second: main boss sprite sheet full done _20
+  - first:
+      213: -2468357686263292406
+    second: main boss sprite sheet full done _21
+  - first:
+      213: -2992910584582215161
+    second: main boss sprite sheet full done _22
+  - first:
+      213: -5549419216346663670
+    second: main boss sprite sheet full done _23
+  - first:
+      213: 1151004989238792738
+    second: main boss sprite sheet full done _24
+  - first:
+      213: 9135637239706260965
+    second: main boss sprite sheet full done _25
+  - first:
+      213: -2500758541889889186
+    second: main boss sprite sheet full done _26
+  - first:
+      213: 7440838401646268769
+    second: main boss sprite sheet full done _27
+  - first:
+      213: 8846910597867879481
+    second: main boss sprite sheet full done _28
+  - first:
+      213: 3239458528441903536
+    second: main boss sprite sheet full done _29
+  - first:
+      213: 3169840210083301128
+    second: main boss sprite sheet full done _30
+  - first:
+      213: 4420957385454691977
+    second: main boss sprite sheet full done _31
+  - first:
+      213: -351358656426090619
+    second: main boss sprite sheet full done _32
+  - first:
+      213: -2400727275595308311
+    second: main boss sprite sheet full done _33
+  - first:
+      213: 4225330019911012565
+    second: main boss sprite sheet full done _34
+  - first:
+      213: 2699081530703364591
+    second: main boss sprite sheet full done _35
+  - first:
+      213: 3246906147017295675
+    second: main boss sprite sheet full done _36
+  - first:
+      213: -2419279364285027510
+    second: main boss sprite sheet full done _37
+  - first:
+      213: 2114501693640064716
+    second: main boss sprite sheet full done _38
+  - first:
+      213: 6860563875487331205
+    second: main boss sprite sheet full done _39
+  - first:
+      213: 96002938443254536
+    second: main boss sprite sheet full done _40
+  - first:
+      213: 7296281391815688525
+    second: main boss sprite sheet full done _41
+  - first:
+      213: 7730616383949793801
+    second: main boss sprite sheet full done _42
+  - first:
+      213: -7514006455260571636
+    second: main boss sprite sheet full done _43
+  - first:
+      213: 3669092096454258005
+    second: main boss sprite sheet full done _44
+  - first:
+      213: 463774564552797865
+    second: main boss sprite sheet full done _45
+  - first:
+      213: 4930413350783550381
+    second: main boss sprite sheet full done _46
+  - first:
+      213: -3512899164007997113
+    second: main boss sprite sheet full done _47
+  - first:
+      213: -6986666317878437448
+    second: main boss sprite sheet full done _48
+  - first:
+      213: 2034423373890309303
+    second: main boss sprite sheet full done _49
+  - first:
+      213: 5430065565354140341
+    second: main boss sprite sheet full done _50
+  - first:
+      213: 941303091056854171
+    second: main boss sprite sheet full done _51
+  - first:
+      213: -5895530382054266930
+    second: main boss sprite sheet full done _52
+  - first:
+      213: 415008377106122829
+    second: main boss sprite sheet full done _53
+  - first:
+      213: 2245760069214411478
+    second: main boss sprite sheet full done _54
+  - first:
+      213: 3988624915691397847
+    second: main boss sprite sheet full done _55
+  - first:
+      213: -1862195627697886663
+    second: main boss sprite sheet full done _56
+  - first:
+      213: 3666934186575712567
+    second: main boss sprite sheet full done _57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _0
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1168
+        width: 38
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a257806ae0b21a30800000000000000
+      internalID: 4184601524468929193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _1
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1168
+        width: 38
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df95b3b512a884060800000000000000
+      internalID: 6937947101833419261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1168
+        width: 38
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0675f2552bdc200b0800000000000000
+      internalID: -5763818407263774880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _3
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1168
+        width: 39
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cde596d332005880800000000000000
+      internalID: -8624390864747762238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1168
+        width: 38
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971e8869177b5b6d0800000000000000
+      internalID: -2975270280323604103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _5
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1168
+        width: 38
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb11d45fe55c70a00800000000000000
+      internalID: 722763276849320382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _6
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1038
+        width: 30
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c008cb06c9631d30800000000000000
+      internalID: 4400977560193204424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _7
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1038
+        width: 37
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89224fe8f6327b7e0800000000000000
+      internalID: -1749890968163442024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _8
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1038
+        width: 37
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3367fdab2f71d40800000000000000
+      internalID: 5555175549811700735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _9
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1038
+        width: 29
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504c32c025bbce960800000000000000
+      internalID: 7632681429551531013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _10
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1038
+        width: 27
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be975e7a875327bc0800000000000000
+      internalID: -3786905544335984149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _11
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1038
+        width: 36
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8007ff788de2e540800000000000000
+      internalID: 5035848503871864974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _12
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1038
+        width: 37
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7aeb4a69da339de0800000000000000
+      internalID: -1327652759678489989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _13
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1038
+        width: 30
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348c29a11c1fba340800000000000000
+      internalID: 4876256833235503171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _14
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 910
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444094932bf28ff10800000000000000
+      internalID: 2303643651911779396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _15
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 910
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ffb588666ad4a90800000000000000
+      internalID: -7328018059357323503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _16
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 910
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a91cd662f7a6c8c0800000000000000
+      internalID: -3979308561185629790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _17
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 910
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adfe3c39ecda97e0800000000000000
+      internalID: -1757849810238505565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _18
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 910
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a11b82af2b9c44d0800000000000000
+      internalID: -3148971410546028127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _19
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 910
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cead89b0ebadb10800000000000000
+      internalID: 2007125540965379228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _20
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 910
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60ef0de219e567d0800000000000000
+      internalID: -2925676115411345298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _21
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 910
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0edba323c1aebdd0800000000000000
+      internalID: -2468357686263292406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 782
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a68713eab0776d0800000000000000
+      internalID: -2992910584582215161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 782
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a053ee3ff908cf2b0800000000000000
+      internalID: -5549419216346663670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 782
+        width: 54
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222d74e70f039ff00800000000000000
+      internalID: 1151004989238792738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _25
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 782
+        width: 35
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e59585baad48ce70800000000000000
+      internalID: 9135637239706260965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _26
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 785
+        width: 36
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c11a11b558b4dd0800000000000000
+      internalID: -2500758541889889186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _27
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 784
+        width: 32
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16116316a1b234760800000000000000
+      internalID: 7440838401646268769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _28
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 784
+        width: 31
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cbd89d05a86ca70800000000000000
+      internalID: 8846910597867879481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _29
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 784
+        width: 32
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9a3644e5ed4fc20800000000000000
+      internalID: 3239458528441903536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _30
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 782
+        width: 47
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807c3c460e88dfb20800000000000000
+      internalID: 3169840210083301128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _31
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 782
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986aa2f91556a5d30800000000000000
+      internalID: 4420957385454691977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _32
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 782
+        width: 54
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fd6fed929bf1bf0800000000000000
+      internalID: -351358656426090619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _33
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 782
+        width: 45
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2ec8f2347eeaed0800000000000000
+      internalID: -2400727275595308311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _34
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 654
+        width: 70
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0179f244363aa30800000000000000
+      internalID: 4225330019911012565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _35
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 654
+        width: 79
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe144611a50157520800000000000000
+      internalID: 2699081530703364591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _36
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 654
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b378ff710f35f0d20800000000000000
+      internalID: 3246906147017295675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _37
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 654
+        width: 46
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bab5f6c3efc6ed0800000000000000
+      internalID: -2419279364285027510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _38
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 654
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cceb0665618385d10800000000000000
+      internalID: 2114501693640064716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _39
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 479
+        width: 71
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583bc45fe7e953f50800000000000000
+      internalID: 6860563875487331205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _40
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 479
+        width: 71
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bcd43f922155100800000000000000
+      internalID: 96002938443254536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _41
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 526
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41877cb449914560800000000000000
+      internalID: 7296281391815688525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _42
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 526
+        width: 101
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a642484aaa84b60800000000000000
+      internalID: 7730616383949793801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _43
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 526
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08933a90f2e8b790800000000000000
+      internalID: -7514006455260571636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _44
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 398
+        width: 65
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d695172db3be230800000000000000
+      internalID: 3669092096454258005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _45
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 398
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aee7006288af6600800000000000000
+      internalID: 463774564552797865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _46
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 398
+        width: 51
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da30c41f1d85c6440800000000000000
+      internalID: 4930413350783550381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _47
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 398
+        width: 54
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741698d82dcaf3fc0800000000000000
+      internalID: -3512899164007997113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _48
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 270
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b95ba630006a0f90800000000000000
+      internalID: -6986666317878437448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _49
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 270
+        width: 69
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bccb7b9749bb3c10800000000000000
+      internalID: 2034423373890309303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _50
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 270
+        width: 71
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2a30aacd77b5b40800000000000000
+      internalID: 5430065565354140341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _51
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 270
+        width: 70
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94cb609c2e201d00800000000000000
+      internalID: 941303091056854171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _52
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 142
+        width: 37
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7e1277a5ede2ea0800000000000000
+      internalID: -5895530382054266930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _53
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 142
+        width: 38
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48c8309be762c500800000000000000
+      internalID: 415008377106122829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _54
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 14
+        width: 95
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da184862ea8a2f10800000000000000
+      internalID: 2245760069214411478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _55
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 14
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2ee0a6a317a5730800000000000000
+      internalID: 3988624915691397847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _56
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 14
+        width: 39
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a28c461f62826e0800000000000000
+      internalID: -1862195627697886663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main boss sprite sheet full done _57
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 14
+        width: 37
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731d495e63193e230800000000000000
+      internalID: 3666934186575712567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

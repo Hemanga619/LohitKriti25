@@ -1,0 +1,1342 @@
+fileFormatVersion: 2
+guid: 48e06fc5990bb8b499e7ce8337acf7b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7598908947299355227
+    second: done guide psd file_0
+  - first:
+      213: -1064861291271502401
+    second: done guide psd file_1
+  - first:
+      213: 2831606343653709329
+    second: done guide psd file_2
+  - first:
+      213: 6397567850664410834
+    second: done guide psd file_3
+  - first:
+      213: 4244939666376717091
+    second: done guide psd file_4
+  - first:
+      213: -8373276044236967339
+    second: done guide psd file_5
+  - first:
+      213: 8355845206865267737
+    second: done guide psd file_6
+  - first:
+      213: -8965237108218742971
+    second: done guide psd file_7
+  - first:
+      213: -8200488473762123831
+    second: done guide psd file_8
+  - first:
+      213: 1504779538548047376
+    second: done guide psd file_9
+  - first:
+      213: 4555892679625934515
+    second: done guide psd file_10
+  - first:
+      213: -997528619909878230
+    second: done guide psd file_11
+  - first:
+      213: -3815366725702559305
+    second: done guide psd file_12
+  - first:
+      213: -54194298651784869
+    second: done guide psd file_13
+  - first:
+      213: -728655268869768509
+    second: done guide psd file_14
+  - first:
+      213: 4612250326718823446
+    second: done guide psd file_15
+  - first:
+      213: 2649355436432757811
+    second: done guide psd file_16
+  - first:
+      213: -5731376636668539836
+    second: done guide psd file_17
+  - first:
+      213: 1092373117016134885
+    second: done guide psd file_18
+  - first:
+      213: 2022388514078007080
+    second: done guide psd file_19
+  - first:
+      213: -8924270812305285912
+    second: done guide psd file_20
+  - first:
+      213: -5191347397778032548
+    second: done guide psd file_21
+  - first:
+      213: -20308968695485922
+    second: done guide psd file_22
+  - first:
+      213: -464070294436402226
+    second: done guide psd file_23
+  - first:
+      213: -7928642367778165710
+    second: done guide psd file_24
+  - first:
+      213: 3062300042002604954
+    second: done guide psd file_25
+  - first:
+      213: 1700348082779069333
+    second: done guide psd file_26
+  - first:
+      213: 4384937441991765130
+    second: done guide psd file_27
+  - first:
+      213: -4615492974863520980
+    second: done guide psd file_28
+  - first:
+      213: -3994757557477948700
+    second: done guide psd file_29
+  - first:
+      213: -1699039010476394623
+    second: done guide psd file_30
+  - first:
+      213: -5124543605459888222
+    second: done guide psd file_31
+  - first:
+      213: -3754363691674553218
+    second: done guide psd file_32
+  - first:
+      213: 6328502468309035621
+    second: done guide psd file_33
+  - first:
+      213: 3792498665972629756
+    second: done guide psd file_34
+  - first:
+      213: -1564763687908417427
+    second: done guide psd file_35
+  - first:
+      213: -6087333829562520219
+    second: done guide psd file_36
+  - first:
+      213: 3660650802951968983
+    second: done guide psd file_37
+  - first:
+      213: -8995940875114217538
+    second: done guide psd file_38
+  - first:
+      213: 8889464355762077696
+    second: done guide psd file_39
+  - first:
+      213: -6770043649028237809
+    second: done guide psd file_40
+  - first:
+      213: 1815694645644086335
+    second: done guide psd file_41
+  - first:
+      213: -6864599351421985246
+    second: done guide psd file_42
+  - first:
+      213: 1266206444541141812
+    second: done guide psd file_43
+  - first:
+      213: -8884519627338671532
+    second: done guide psd file_44
+  - first:
+      213: -2046329923360821044
+    second: done guide psd file_45
+  - first:
+      213: -6063834007608024264
+    second: done guide psd file_46
+  - first:
+      213: 2828480904460576512
+    second: done guide psd file_47
+  - first:
+      213: 2978214808272113727
+    second: done guide psd file_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: done guide psd file_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 897
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ac0544d6fb47960800000000000000
+      internalID: 7598908947299355227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 897
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5c2b62c4ad831f0800000000000000
+      internalID: -1064861291271502401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 897
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116d83197f2eb4720800000000000000
+      internalID: 2831606343653709329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_3
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 897
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2debf4d701ab8c850800000000000000
+      internalID: 6397567850664410834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_4
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 897
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323795bc22e09ea30800000000000000
+      internalID: 4244939666376717091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_5
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 897
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552b7f02dc52ccb80800000000000000
+      internalID: -8373276044236967339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 767
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cca59c1fce5f370800000000000000
+      internalID: 8355845206865267737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 767
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547b8759954159380800000000000000
+      internalID: -8965237108218742971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_8
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 767
+        width: 37
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf29b06e23023e80800000000000000
+      internalID: -8200488473762123831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_9
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 767
+        width: 38
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ebe64840d02e410800000000000000
+      internalID: 1504779538548047376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_10
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 767
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b608e30148c93f30800000000000000
+      internalID: 4555892679625934515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_11
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 767
+        width: 37
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e6cfc51011822f0800000000000000
+      internalID: -997528619909878230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_12
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 767
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b957aa7d281d0bc0800000000000000
+      internalID: -3815366725702559305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_13
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 767
+        width: 37
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59420092967f3ff0800000000000000
+      internalID: -54194298651784869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_14
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 767
+        width: 37
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cafc4fb4eb43e5f0800000000000000
+      internalID: -728655268869768509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_15
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 767
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c31434c31020040800000000000000
+      internalID: 4612250326718823446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_16
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 767
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33413588bb664c420800000000000000
+      internalID: 2649355436432757811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 639
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c0669a05f0670b0800000000000000
+      internalID: -5731376636668539836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_18
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 639
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4dee1ff83e82f00800000000000000
+      internalID: 1092373117016134885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_19
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 639
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f137373a7f01c10800000000000000
+      internalID: 2022388514078007080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_20
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 639
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec1821aafe962480800000000000000
+      internalID: -8924270812305285912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_21
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 659
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58bac1fb01a4f7b0800000000000000
+      internalID: -5191347397778032548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_22
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 639
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1aa62fb919d7bff0800000000000000
+      internalID: -20308968695485922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_23
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 639
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbae45a68a4f89f0800000000000000
+      internalID: -464070294436402226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_24
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 639
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c687536cdc7f190800000000000000
+      internalID: -7928642367778165710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 511
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93aa37d9a97f7a20800000000000000
+      internalID: 3062300042002604954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 511
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b109c8299d89710800000000000000
+      internalID: 1700348082779069333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_27
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 511
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8caa300f5d6adc30800000000000000
+      internalID: 4384937441991765130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_28
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 511
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2be2f1e79972ffb0800000000000000
+      internalID: -4615492974863520980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_29
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 511
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e248b6aa25cf88c0800000000000000
+      internalID: -3994757557477948700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_30
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 511
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187f509950dcb68e0800000000000000
+      internalID: -1699039010476394623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_31
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 511
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a75098edb6f1e8b0800000000000000
+      internalID: -5124543605459888222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_32
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 511
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e743d182d12d5ebc0800000000000000
+      internalID: -3754363691674553218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_33
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 511
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a2ebf077b53d750800000000000000
+      internalID: 6328502468309035621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_34
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 511
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf001747179a1a430800000000000000
+      internalID: 3792498665972629756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_35
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 511
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60e9c067b7d84ae0800000000000000
+      internalID: -1564763687908417427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_36
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 511
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d25b35222758ba0800000000000000
+      internalID: -6087333829562520219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_37
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 511
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d853b4a28e3dc230800000000000000
+      internalID: 3660650802951968983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_38
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 511
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf7666cf6ff72380800000000000000
+      internalID: -8995940875114217538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_39
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 511
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00002b0bbb8bd5b70800000000000000
+      internalID: 8889464355762077696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_40
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 511
+        width: 39
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0658c1ab29fb02a0800000000000000
+      internalID: -6770043649028237809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_41
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 383
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cc13609a4a23910800000000000000
+      internalID: 1815694645644086335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_42
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 383
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e9d15924b0cb0a0800000000000000
+      internalID: -6864599351421985246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_43
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 383
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4336f2b7d08729110800000000000000
+      internalID: 1266206444541141812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_44
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 383
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a1e7c9878d3b480800000000000000
+      internalID: -8884519627338671532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_45
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 383
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc073d0d6c9f993e0800000000000000
+      internalID: -2046329923360821044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_46
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 383
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833279ff81fe8dba0800000000000000
+      internalID: -6063834007608024264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_47
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 383
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007295c8568c04720800000000000000
+      internalID: 2828480904460576512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: done guide psd file_48
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 383
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f301edfb69eb45920800000000000000
+      internalID: 2978214808272113727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

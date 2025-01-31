@@ -3,25 +3,34 @@ using UnityEngine;
 public class BossHealth : MonoBehaviour
 {
 
-    public int health = 500;
+    public int maxHealth = 500;
+    public float currentHealth;
+    public HealthBar healthBar;
 
     public GameObject deathEffect;
 
     public bool isInvulnerable = false;
+
+    void Start()
+    {
+        currentHealth = maxHealth;
+        healthBar.SetMaxHealth(maxHealth);
+    }
 
     public void TakeDamage(int damage)
     {
         if (isInvulnerable)
             return;
 
-        health -= damage;
+        currentHealth -= damage;
+        healthBar.SetHealth(currentHealth);
 
-        if (health <= 200)
+        if (currentHealth <= maxHealth/2)
         {
             GetComponent<Animator>().SetBool("IsEnraged", true);
         }
 
-        if (health <= 0)
+        if (currentHealth <= 0)
         {
             Die();
         }
@@ -32,5 +41,4 @@ public class BossHealth : MonoBehaviour
         Instantiate(deathEffect, transform.position, Quaternion.identity);
         Destroy(gameObject);
     }
-
 }
