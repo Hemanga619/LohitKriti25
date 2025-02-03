@@ -4,13 +4,14 @@ public class PlayerMovementSide : MonoBehaviour
 {
     [Header("Player Components")]
     public Rigidbody2D playerRb;
-    public Animator Animator;
+    private Animator Animator;
     private bool m_FacingRight = true;
     private Vector2 m_Velocity = Vector2.zero;
 
     [Header("Player Elements")]
     private float playerMoveX;
     [Range(0f, 50f)][SerializeField] private int playerSpeed;
+    [Range(0f, 50f)][SerializeField] private int playerRunSpeed;
     private bool isGrounded;
     private bool wasGrounded;
     [SerializeField] private Transform groundPos;
@@ -34,7 +35,10 @@ public class PlayerMovementSide : MonoBehaviour
 
     public void PlayerRun()
     {
-        Vector2 targetVelocity = new Vector2(playerMoveX * playerSpeed, playerRb.linearVelocity.y);
+        bool isRunning = Input.GetKey(KeyCode.LeftShift) && (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.D));
+        float currentSpeed = isRunning ? playerRunSpeed + 1 : playerSpeed; // Increase speed by 1 when running
+
+        Vector2 targetVelocity = new Vector2(playerMoveX * currentSpeed, playerRb.linearVelocity.y);
         playerRb.linearVelocity = Vector2.SmoothDamp(playerRb.linearVelocity, targetVelocity, ref m_Velocity, m_MovementSmoothing);
 
         if (playerMoveX > 0 && !m_FacingRight)
@@ -50,6 +54,7 @@ public class PlayerMovementSide : MonoBehaviour
         {
             Animator.SetFloat("Speed", Mathf.Abs(playerMoveX));
             Animator.SetBool("IsMoving", playerMoveX != 0);
+            Animator.SetBool("IsRun", isRunning);
         }
     }
 
@@ -73,12 +78,17 @@ public class PlayerMovementSide : MonoBehaviour
         {
             playerJumpBufferTimeCounter = 0f;
             playerCoyoteTimeCounter = 0f;
-            playerRb.linearVelocity = new Vector2(playerRb.linearVelocity.x, playerJumpSpeed);
+
+            // Trigger the jump animation immediately
             Animator.SetBool("Jumping", true);
+
+            // Apply the jump force
+            playerRb.linearVelocity = new Vector2(playerRb.linearVelocity.x, playerJumpSpeed);
         }
 
         playerJumpBufferTimeCounter -= Time.deltaTime;
     }
+
 
     void Start()
     {

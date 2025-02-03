@@ -1,115 +1,142 @@
 fileFormatVersion: 2
-guid: 94b98d8fd2e2c0d45b3086e0f2f9f4ec
+guid: 7598207a5c86a2248ad467f1ccf04712
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4306593731159663772
-    second: anger  _0
+      213: 530560704156891459
+    second: ho gya bhai pura sheet_0
   - first:
-      213: -4927851548197230612
-    second: anger  _1
+      213: 408109874238110177
+    second: ho gya bhai pura sheet_1
   - first:
-      213: -2952927732129078490
-    second: anger  _2
+      213: -5439213124355789156
+    second: ho gya bhai pura sheet_2
   - first:
-      213: -4205325337469367885
-    second: anger  _3
+      213: -3591580153434765924
+    second: ho gya bhai pura sheet_3
   - first:
-      213: 4844993532233880558
-    second: anger  _4
+      213: 6241307157377711543
+    second: ho gya bhai pura sheet_4
   - first:
-      213: 6049098018546074672
-    second: anger  _5
+      213: -5087925607880410496
+    second: ho gya bhai pura sheet_5
   - first:
-      213: 2418904485467728883
-    second: anger  _6
+      213: -7765980947556175656
+    second: ho gya bhai pura sheet_6
   - first:
-      213: -4992879449670717906
-    second: anger  _7
+      213: -4730244555040137791
+    second: ho gya bhai pura sheet_7
   - first:
-      213: 7524206450456192311
-    second: anger  _8
+      213: 1948673403859905555
+    second: ho gya bhai pura sheet_8
   - first:
-      213: 3127763281880017478
-    second: anger  _9
+      213: -8012442164755472466
+    second: ho gya bhai pura sheet_9
   - first:
-      213: -1186840087120706101
-    second: anger  _10
+      213: 461348686997782050
+    second: ho gya bhai pura sheet_10
   - first:
-      213: 1372131710873713278
-    second: anger  _11
+      213: -171036325844750430
+    second: ho gya bhai pura sheet_11
   - first:
-      213: 3231338888453635414
-    second: anger  _12
+      213: 5162938191071786302
+    second: ho gya bhai pura sheet_12
   - first:
-      213: 3388960049715723135
-    second: anger  _13
+      213: -1694176598054567167
+    second: ho gya bhai pura sheet_13
   - first:
-      213: 5810208026506873623
-    second: anger  _14
+      213: -2577169899475681656
+    second: ho gya bhai pura sheet_14
   - first:
-      213: 6849033337513461962
-    second: anger  _15
+      213: -4585508411831948890
+    second: ho gya bhai pura sheet_15
   - first:
-      213: 2262716336285938751
-    second: anger  _16
+      213: 5322035311676531635
+    second: ho gya bhai pura sheet_16
   - first:
-      213: 5436807077820334681
-    second: anger  _17
+      213: -7645723596552635098
+    second: ho gya bhai pura sheet_17
   - first:
-      213: -1189888131038865645
-    second: anger  _18
+      213: 3241814836485684518
+    second: ho gya bhai pura sheet_18
   - first:
-      213: 848800878220782702
-    second: anger  _19
+      213: -6651596352842516641
+    second: ho gya bhai pura sheet_19
   - first:
-      213: 8873943073549803616
-    second: anger  _20
+      213: 6184054099413993679
+    second: ho gya bhai pura sheet_20
   - first:
-      213: -8166644381833771491
-    second: anger  _21
+      213: -6804116802576422089
+    second: ho gya bhai pura sheet_21
   - first:
-      213: 1970612908784976274
-    second: anger  _22
+      213: -5773616650654887122
+    second: ho gya bhai pura sheet_22
   - first:
-      213: -1312308626701435784
-    second: anger  _23
+      213: -2960766946053442928
+    second: ho gya bhai pura sheet_23
   - first:
-      213: 8378955787835132907
-    second: anger  _24
+      213: -7027161595288477790
+    second: ho gya bhai pura sheet_24
   - first:
-      213: 123398684744214554
-    second: anger  _25
+      213: 8004097086123681971
+    second: ho gya bhai pura sheet_25
   - first:
-      213: 8808294841060660954
-    second: anger  _26
+      213: 439172853812319207
+    second: ho gya bhai pura sheet_26
   - first:
-      213: -3923324968875286113
-    second: anger  _27
+      213: 4936203935475106117
+    second: ho gya bhai pura sheet_27
   - first:
-      213: -2188058892798261189
-    second: anger  _28
+      213: -5379842328755920398
+    second: ho gya bhai pura sheet_28
   - first:
-      213: -4055968812303417950
-    second: anger  _29
+      213: -8721854736306429632
+    second: ho gya bhai pura sheet_29
   - first:
-      213: 3002083369695318411
-    second: anger  _30
+      213: 3147280084973858288
+    second: ho gya bhai pura sheet_30
   - first:
-      213: 4121689156622962671
-    second: anger  _31
+      213: -3748209434418057271
+    second: ho gya bhai pura sheet_31
   - first:
-      213: -3013013601242838639
-    second: anger  _32
+      213: 4614896942413378432
+    second: ho gya bhai pura sheet_32
   - first:
-      213: -1827300456587909704
-    second: anger  _33
+      213: -1828832739276160632
+    second: ho gya bhai pura sheet_33
   - first:
-      213: 4801568879645342807
-    second: anger  _34
+      213: 1844399566756489637
+    second: ho gya bhai pura sheet_34
   - first:
-      213: 4375365701311096807
-    second: anger  _35
+      213: 971751320044176743
+    second: ho gya bhai pura sheet_35
+  - first:
+      213: 2633095469046396963
+    second: ho gya bhai pura sheet_36
+  - first:
+      213: -7475072824379441902
+    second: ho gya bhai pura sheet_37
+  - first:
+      213: -3061004267745487751
+    second: ho gya bhai pura sheet_38
+  - first:
+      213: -6719322431633854008
+    second: ho gya bhai pura sheet_39
+  - first:
+      213: 6940548837615315203
+    second: ho gya bhai pura sheet_40
+  - first:
+      213: 7705638924101740322
+    second: ho gya bhai pura sheet_41
+  - first:
+      213: 6516388185650522474
+    second: ho gya bhai pura sheet_42
+  - first:
+      213: 6886521104628232327
+    second: ho gya bhai pura sheet_43
+  - first:
+      213: 6222947070805526733
+    second: ho gya bhai pura sheet_44
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -205,11 +232,253 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: anger  _0
+      name: ho gya bhai pura sheet_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1963
+        width: 191
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3497d0f362eec5700800000000000000
+      internalID: 530560704156891459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ho gya bhai pura sheet_1
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1962
+        width: 180
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9ba43b4c5e9a500800000000000000
+      internalID: 408109874238110177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ho gya bhai pura sheet_2
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1962
+        width: 239
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e61294b780484b0800000000000000
+      internalID: -5439213124355789156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ho gya bhai pura sheet_3
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1973
+        width: 317
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c958d2421e4282ec0800000000000000
+      internalID: -3591580153434765924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ho gya bhai pura sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1969
+        width: 312
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdf991bac39d9650800000000000000
+      internalID: 6241307157377711543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ho gya bhai pura sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1955
+        width: 313
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08abcaadd9e0469b0800000000000000
+      internalID: -5087925607880410496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ho gya bhai pura sheet_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1705
+        width: 150
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d076706971b93490800000000000000
+      internalID: -7765980947556175656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ho gya bhai pura sheet_7
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1705
+        width: 151
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd5b1c93abca5eb0800000000000000
+      internalID: -4730244555040137791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ho gya bhai pura sheet_8
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1705
+        width: 148
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c2254e2241b0b10800000000000000
+      internalID: 1948673403859905555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ho gya bhai pura sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1535
+        width: 195
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf536a8d461ec090800000000000000
+      internalID: -8012442164755472466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ho gya bhai pura sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1538
+        width: 187
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e781ebf2a076600800000000000000
+      internalID: 461348686997782050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ho gya bhai pura sheet_11
       rect:
         serializedVersion: 2
         x: 206
-        y: 1251
+        y: 1487
         width: 83
         height: 124
       alignment: 0
@@ -220,18 +489,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c9422b16e2814cb30800000000000000
-      internalID: 4306593731159663772
+      spriteID: 2afe55a2e5b50adf0800000000000000
+      internalID: -171036325844750430
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: anger  _1
+      name: ho gya bhai pura sheet_12
       rect:
         serializedVersion: 2
         x: 313
-        y: 1251
+        y: 1487
         width: 83
         height: 124
       alignment: 0
@@ -242,18 +511,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ce768d33021cc9bb0800000000000000
-      internalID: -4927851548197230612
+      spriteID: e35b12c2ee076a740800000000000000
+      internalID: 5162938191071786302
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: anger  _2
+      name: ho gya bhai pura sheet_13
       rect:
         serializedVersion: 2
         x: 432
-        y: 1251
+        y: 1487
         width: 81
         height: 126
       alignment: 0
@@ -264,62 +533,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 623eb077fd71507d0800000000000000
-      internalID: -2952927732129078490
+      spriteID: 1038d263c531d78e0800000000000000
+      internalID: -1694176598054567167
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: anger  _3
-      rect:
-        serializedVersion: 2
-        x: 1009
-        y: 1252
-        width: 100
-        height: 117
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3b94037e2eea3a5c0800000000000000
-      internalID: -4205325337469367885
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: anger  _4
-      rect:
-        serializedVersion: 2
-        x: 1132
-        y: 1253
-        width: 95
-        height: 110
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ee39ddb92ffdc3340800000000000000
-      internalID: 4844993532233880558
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: anger  _5
+      name: ho gya bhai pura sheet_14
       rect:
         serializedVersion: 2
         x: 219
-        y: 1077
+        y: 1313
         width: 91
         height: 123
       alignment: 0
@@ -330,18 +555,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 03445fe2996b2f350800000000000000
-      internalID: 6049098018546074672
+      spriteID: 88e3cef71ad0c3cd0800000000000000
+      internalID: -2577169899475681656
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: anger  _6
+      name: ho gya bhai pura sheet_15
       rect:
         serializedVersion: 2
         x: 329
-        y: 1077
+        y: 1313
         width: 72
         height: 124
       alignment: 0
@@ -352,18 +577,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3fb27e940dca19120800000000000000
-      internalID: 2418904485467728883
+      spriteID: 6a9e03ef4600d50c0800000000000000
+      internalID: -4585508411831948890
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: anger  _7
+      name: ho gya bhai pura sheet_16
       rect:
         serializedVersion: 2
-        x: 415
-        y: 1077
+        x: 476
+        y: 1313
         width: 80
         height: 122
       alignment: 0
@@ -374,18 +599,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e2e670c089ab5bab0800000000000000
-      internalID: -4992879449670717906
+      spriteID: 3b3a09a2beaabd940800000000000000
+      internalID: 5322035311676531635
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: anger  _8
+      name: ho gya bhai pura sheet_17
       rect:
         serializedVersion: 2
-        x: 511
-        y: 1077
+        x: 583
+        y: 1313
         width: 84
         height: 126
       alignment: 0
@@ -396,18 +621,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 735e428d6e95b6860800000000000000
-      internalID: 7524206450456192311
+      spriteID: 62d78a0d5eee4e590800000000000000
+      internalID: -7645723596552635098
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: anger  _9
+      name: ho gya bhai pura sheet_18
       rect:
         serializedVersion: 2
-        x: 603
-        y: 1078
+        x: 704
+        y: 1314
         width: 115
         height: 118
       alignment: 0
@@ -418,18 +643,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 64ae7fd122c086b20800000000000000
-      internalID: 3127763281880017478
+      spriteID: 62df15cfa6d3dfc20800000000000000
+      internalID: 3241814836485684518
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: anger  _10
+      name: ho gya bhai pura sheet_19
       rect:
         serializedVersion: 2
-        x: 713
-        y: 1079
+        x: 844
+        y: 1315
         width: 111
         height: 116
       alignment: 0
@@ -440,18 +665,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bc50af99a3f778fe0800000000000000
-      internalID: -1186840087120706101
+      spriteID: f57b987db58c0b3a0800000000000000
+      internalID: -6651596352842516641
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: anger  _11
+      name: ho gya bhai pura sheet_20
       rect:
         serializedVersion: 2
         x: 116
-        y: 810
+        y: 1046
         width: 154
         height: 214
       alignment: 0
@@ -462,20 +687,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e7a3dab658aca0310800000000000000
-      internalID: 1372131710873713278
+      spriteID: fc88e5b507c22d550800000000000000
+      internalID: 6184054099413993679
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: anger  _12
+      name: ho gya bhai pura sheet_21
       rect:
         serializedVersion: 2
         x: 287
-        y: 813
-        width: 175
-        height: 175
+        y: 1049
+        width: 201
+        height: 201
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -484,18 +709,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 65d3f23499508dc20800000000000000
-      internalID: 3231338888453635414
+      spriteID: 73b6a2c51dbe291a0800000000000000
+      internalID: -6804116802576422089
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: anger  _13
+      name: ho gya bhai pura sheet_22
       rect:
         serializedVersion: 2
-        x: 467
-        y: 808
+        x: 491
+        y: 1044
         width: 239
         height: 224
       alignment: 0
@@ -506,18 +731,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f7bbb41b531080f20800000000000000
-      internalID: 3388960049715723135
+      spriteID: e235f640f3effdfa0800000000000000
+      internalID: -5773616650654887122
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: anger  _14
+      name: ho gya bhai pura sheet_23
       rect:
         serializedVersion: 2
-        x: 724
-        y: 813
+        x: 751
+        y: 1049
         width: 214
         height: 213
       alignment: 0
@@ -528,18 +753,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 71bc0139a6102a050800000000000000
-      internalID: 5810208026506873623
+      spriteID: 09234cd362e39e6d0800000000000000
+      internalID: -2960766946053442928
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: anger  _15
+      name: ho gya bhai pura sheet_24
       rect:
         serializedVersion: 2
-        x: 919
-        y: 814
+        x: 979
+        y: 1050
         width: 203
         height: 178
       alignment: 0
@@ -550,18 +775,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ac84c416887ac0f50800000000000000
-      internalID: 6849033337513461962
+      spriteID: 2af1095b2c18a7e90800000000000000
+      internalID: -7027161595288477790
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: anger  _16
+      name: ho gya bhai pura sheet_25
       rect:
         serializedVersion: 2
-        x: 1140
-        y: 802
+        x: 1238
+        y: 1038
         width: 231
         height: 222
       alignment: 0
@@ -572,18 +797,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f34fbcbf488c66f10800000000000000
-      internalID: 2262716336285938751
+      spriteID: 3b8242e64e3441f60800000000000000
+      internalID: 8004097086123681971
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: anger  _17
+      name: ho gya bhai pura sheet_26
       rect:
         serializedVersion: 2
         x: 424
-        y: 527
+        y: 763
         width: 77
         height: 118
       alignment: 0
@@ -594,18 +819,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9528fc95b3b637b40800000000000000
-      internalID: 5436807077820334681
+      spriteID: 7e35a7a3261481600800000000000000
+      internalID: 439172853812319207
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: anger  _18
+      name: ho gya bhai pura sheet_27
       rect:
         serializedVersion: 2
         x: 538
-        y: 523
+        y: 759
         width: 120
         height: 139
       alignment: 0
@@ -616,18 +841,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 31799f29c0bac7fe0800000000000000
-      internalID: -1189888131038865645
+      spriteID: 54101e0835be08440800000000000000
+      internalID: 4936203935475106117
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: anger  _19
+      name: ho gya bhai pura sheet_28
       rect:
         serializedVersion: 2
         x: 694
-        y: 523
+        y: 759
         width: 120
         height: 160
       alignment: 0
@@ -638,18 +863,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e6ca36fc6eb87cb00800000000000000
-      internalID: 848800878220782702
+      spriteID: 2f1a4e6d7e5f655b0800000000000000
+      internalID: -5379842328755920398
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: anger  _20
+      name: ho gya bhai pura sheet_29
       rect:
         serializedVersion: 2
         x: 850
-        y: 522
+        y: 758
         width: 148
         height: 194
       alignment: 0
@@ -660,18 +885,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 06069ff8534962b70800000000000000
-      internalID: 8873943073549803616
+      spriteID: 041a5e3e35fb5f680800000000000000
+      internalID: -8721854736306429632
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: anger  _21
+      name: ho gya bhai pura sheet_30
       rect:
         serializedVersion: 2
         x: 1032
-        y: 524
+        y: 760
         width: 169
         height: 230
       alignment: 0
@@ -682,18 +907,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d16cbd514304aae80800000000000000
-      internalID: -8166644381833771491
+      spriteID: 0fd2781ff826dab20800000000000000
+      internalID: 3147280084973858288
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: anger  _22
+      name: ho gya bhai pura sheet_31
       rect:
         serializedVersion: 2
         x: 215
-        y: 264
+        y: 500
         width: 85
         height: 106
       alignment: 0
@@ -704,18 +929,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2918de1fff5095b10800000000000000
-      internalID: 1970612908784976274
+      spriteID: 9cf6eb5d06fabfbc0800000000000000
+      internalID: -3748209434418057271
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: anger  _23
+      name: ho gya bhai pura sheet_32
       rect:
         serializedVersion: 2
         x: 324
-        y: 265
+        y: 501
         width: 87
         height: 122
       alignment: 0
@@ -726,20 +951,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 87cb7c5c14eb9cde0800000000000000
-      internalID: -1312308626701435784
+      spriteID: 083f59f71586b0040800000000000000
+      internalID: 4614896942413378432
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: anger  _24
+      name: ho gya bhai pura sheet_33
       rect:
         serializedVersion: 2
         x: 430
-        y: 265
-        width: 149
-        height: 172
+        y: 501
+        width: 120
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -748,19 +973,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bebcd9a35e7084470800000000000000
-      internalID: 8378955787835132907
+      spriteID: 88107dd205eae96e0800000000000000
+      internalID: -1828832739276160632
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: anger  _25
+      name: ho gya bhai pura sheet_34
       rect:
         serializedVersion: 2
-        x: 550
-        y: 265
-        width: 168
+        x: 671
+        y: 501
+        width: 167
         height: 112
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -770,18 +995,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a18ede1337666b100800000000000000
-      internalID: 123398684744214554
+      spriteID: 5a9a76842af989910800000000000000
+      internalID: 1844399566756489637
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: anger  _26
+      name: ho gya bhai pura sheet_35
       rect:
         serializedVersion: 2
-        x: 702
-        y: 266
+        x: 879
+        y: 502
         width: 150
         height: 165
       alignment: 0
@@ -792,18 +1017,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ad693565d795d3a70800000000000000
-      internalID: 8808294841060660954
+      spriteID: 76500415daa5c7d00800000000000000
+      internalID: 971751320044176743
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: anger  _27
+      name: ho gya bhai pura sheet_36
       rect:
         serializedVersion: 2
-        x: 876
-        y: 265
+        x: 1052
+        y: 501
         width: 113
         height: 163
       alignment: 0
@@ -814,18 +1039,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f91a4cb3abc8d89c0800000000000000
-      internalID: -3923324968875286113
+      spriteID: 328733cd062aa8420800000000000000
+      internalID: 2633095469046396963
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: anger  _28
+      name: ho gya bhai pura sheet_37
       rect:
         serializedVersion: 2
-        x: 994
-        y: 264
+        x: 1185
+        y: 500
         width: 105
         height: 124
       alignment: 0
@@ -836,20 +1061,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b380023a70472a1e0800000000000000
-      internalID: -2188058892798261189
+      spriteID: 21dffa0fed4334890800000000000000
+      internalID: -7475072824379441902
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: anger  _29
+      name: ho gya bhai pura sheet_38
       rect:
         serializedVersion: 2
-        x: 139
-        y: 23
-        width: 115
-        height: 146
+        x: 20
+        y: 173
+        width: 156
+        height: 198
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -858,107 +1083,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2ad779acadd46b7c0800000000000000
-      internalID: -4055968812303417950
+      spriteID: 974531d16d02585d0800000000000000
+      internalID: -3061004267745487751
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: anger  _30
+      name: ho gya bhai pura sheet_39
       rect:
         serializedVersion: 2
-        x: 288
-        y: 25
-        width: 120
-        height: 166
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b811cc44bea89a920800000000000000
-      internalID: 3002083369695318411
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: anger  _31
-      rect:
-        serializedVersion: 2
-        x: 434
-        y: 25
-        width: 166
-        height: 164
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fef4717437e233930800000000000000
-      internalID: 4121689156622962671
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: anger  _32
-      rect:
-        serializedVersion: 2
-        x: 601
-        y: 25
-        width: 230
-        height: 152
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1990082e710af26d0800000000000000
-      internalID: -3013013601242838639
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: anger  _33
-      rect:
-        serializedVersion: 2
-        x: 810
-        y: 26
-        width: 206
-        height: 227
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8b52b2b8aef14a6e0800000000000000
-      internalID: -1827300456587909704
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: anger  _34
-      rect:
-        serializedVersion: 2
-        x: 1048
-        y: 25
-        width: 158
+        x: 223
+        y: 175
+        width: 162
         height: 225
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -968,20 +1105,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 75cb4dbc47992a240800000000000000
-      internalID: 4801568879645342807
+      spriteID: 8c1762359db20c2a0800000000000000
+      internalID: -6719322431633854008
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: anger  _35
+      name: ho gya bhai pura sheet_40
       rect:
         serializedVersion: 2
-        x: 1212
-        y: 23
-        width: 144
-        height: 171
+        x: 421
+        y: 175
+        width: 224
+        height: 222
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -990,8 +1127,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7e763157ceb68bc30800000000000000
-      internalID: 4375365701311096807
+      spriteID: 309af4c2568c15060800000000000000
+      internalID: 6940548837615315203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ho gya bhai pura sheet_41
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 175
+        width: 301
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227e18676cdefea60800000000000000
+      internalID: 7705638924101740322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ho gya bhai pura sheet_42
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 177
+        width: 279
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a696040978cde6a50800000000000000
+      internalID: 6516388185650522474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ho gya bhai pura sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 175
+        width: 213
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780b8935576d19f50800000000000000
+      internalID: 6886521104628232327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ho gya bhai pura sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 173
+        width: 195
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8cb6be3695c5650800000000000000
+      internalID: 6222947070805526733
       vertices: []
       indices: 
       edges: []
